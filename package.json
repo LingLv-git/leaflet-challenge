@@ -1,0 +1,23 @@
+{
+  "name": "leaflet-challenge",
+  "version": "1.0.0",
+  "description": "## Background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LingLv-git/leaflet-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LingLv-git/leaflet-challenge/issues"
+  },
+  "homepage": "https://github.com/LingLv-git/leaflet-challenge#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
